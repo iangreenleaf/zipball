@@ -3,6 +3,7 @@
 , "dependencies": {
     "express": "~> 2.5.8"
   , "request": "~> 2.9.3"
+  , "node-native-zip": "~> 1.0.1"
   }
 , "private": "true"
 , "scripts": {
