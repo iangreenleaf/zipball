@@ -1,0 +1,12 @@
+{ "name": "Zipball"
+, "version": "0.0.1"
+, "dependencies": {
+    "express": "~> 2.5.8"
+  , "request": "~> 2.9.3"
+  }
+, "private": "true"
+, "scripts": {
+    "test": "ENV=test ./node_modules/.bin/mocha"
+  }
+}
+
